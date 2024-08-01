@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...web and Mobile development
 - 🌱 I’m currently learning ...Django and another frameworks
 - 💞️ I’m looking to collaborate on ...web dev projects 
-- 📫 How to reach me ...bonsakakuu@gmail.com
+- 📫 How to reach me ...mailto:bonsakakuu@gmail.com
 
 <!---
 bonsa9/bonsa9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
