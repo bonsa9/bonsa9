@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bonsa9
 - 👀 I’m interested in ...web and Mobile development
-- 🌱 I’m currently learning ...Django and another frameworks
+- 🌱 I’m currently learning ...Django and another React Native 
 - 💞️ I’m looking to collaborate on ...web dev projects 
 - 📫 How to reach me ...mailto:@bonsakakuu@gmail.com
 
