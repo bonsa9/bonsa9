@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @bonsa9
-- 👀 I’m interested in ...web and Mobile development
-- 🌱 I’m currently learning ...Django and another React Native 
-- 💞️ I’m looking to collaborate on ...web dev projects 
-- 📫 How to reach me ...mailto:bonsakakuu@gmail.com
+👋 Hello! I’m @bonsa9
 
-<!---
-bonsa9/bonsa9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A web and mobile development enthusiast currently expanding my skills in cutting-edge technologies.
+
+- 👀 My focus is on creating dynamic and user-friendly **web and mobile applications**.
+- 🌱 I'm actively mastering **Django** for robust backends and **React Native** for cross-platform mobile development.
+- 💞️ I'm keen to collaborate on innovative **web development projects** where I can contribute and learn.
+- 📫 Let's connect! You can reach me via email at: bonsakakuu@gmail.com
