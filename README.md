@@ -19,23 +19,23 @@ I'm a passionate Software Engineer from Ethiopia who builds robust and scalable 
 | Category    | Tools & Languages |
 |------------|------------------|
 | **Languages** | Java, JavaScript, TypeScript, HTML, CSS |
-| **Backend**   | Spring Boot, REST APIs, JWT, PostgreSQL |
-| **Frontend**  | React, Tailwind CSS |
+| **Backend**   | Spring Boot, REST APIs, PostgreSQL, NestJs, NextJs |
+| **Frontend**  | React, Tailwind CSS,NextJs |
 | **Tools**     | Git, GitHub, IntelliJ, Docker, Postman |
-| **Other**     | Agile, Figma, CI/CD basics |
+| **Others**    | Agile, Figma, CI/CD: Docker, Kubernetes |
 
 ---
 
 ## 🚀 Projects I'm Proud Of
 
-- 🔹 [**EkubNow**](https://github.com/bonsa9/ekubnow)  
-  A web platform for managing Ekub (rotating savings groups) with authentication and group management.
+- 🔹 [**EkubNow**](https://github.com/DabalaYonas/EkubNow-App)  
+  A  Mobile App and web platform for managing Ekub (rotating savings groups) with authentication and group management.
 
-- 🔹 [**bonsaportfolio**](https://github.com/bonsa9/bonsaportfolio)  
+- 🔹 [**My Personal Portfolio**] 
   My personal portfolio site  
   🌐 [Live Site](https://bonsaportfolio.vercel.app)
 
-- 🔹 [**Student Info System**](https://github.com/bonsa9/student-info-system)  
+- 🔹 [**Student Info System**](https://github.com/bonsa9/sims)  
   Enterprise-grade Student Information System with microservice architecture using Spring Boot.
 
 - 🔹 [**React Auth Demo**](https://github.com/bonsa9/react-auth-demo)  
@@ -47,7 +47,7 @@ I'm a passionate Software Engineer from Ethiopia who builds robust and scalable 
 
 - 📧 **bonsaasafa9@gmail.com**
 - 🌐 [**bonsaportfolio.vercel.app**](https://bonsaportfolio.vercel.app)
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/bonsaasafa)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/)
 
 ---
 
